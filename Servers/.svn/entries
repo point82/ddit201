@@ -1,0 +1,68 @@
+10
+
+dir
+8
+https://dev.naver.com/svn/ddit201/Servers
+https://dev.naver.com/svn/ddit201
+
+
+
+2014-05-12T12:07:06.863125Z
+8
+junk0914
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfa54f1c-06f9-0410-bc83-f629b54433ac
+
+.project
+file
+9
+
+
+
+2014-04-02T07:51:57.625000Z
+a29258b4a2c7a4ee087f8c21348b11e2
+2014-05-12T12:08:42.650106Z
+9
+junk0914
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+211
+
+.settings
+dir
+
+Tomcat v7.0 Server at localhost-config
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ddit201/!svn/ver/9/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config
+END
+catalina.policy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ddit201/!svn/ver/9/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/catalina.policy
+END
+catalina.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ddit201/!svn/ver/9/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/catalina.properties
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ddit201/!svn/ver/9/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/context.xml
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ddit201/!svn/ver/9/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/tomcat-users.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ddit201/!svn/ver/9/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/server.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ddit201/!svn/ver/9/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/web.xml
+END
